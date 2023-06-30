@@ -2,8 +2,9 @@
 Trabalho realizado por Cláudio Costa 22104010 e Gonçalo Antunes 22106935
 A imagem foi feita por uma AI e o prompt foi: Security information and event management
 
-![DEISI305](https://github.com/Culurio/Plataforma-de-Solu-o-de-Ciberseguran-a-SIEM-baseada-em-Open-Source/assets/55658962/2f3c2c57-847d-463e-8978-682e91f93b41)
+![DEISI305](https://github.com/Culurio/Plataforma-de-Solu-o-de-Ciberseguran-a-SIEM-baseada-em-Open-Source/assets/55658962/6ad81875-aee3-48e6-a9de-594deb76edb1)
+
 
 # Diagrama da Rede da empresa
-![Diagrama de rede drawio (1)](https://github.com/Culurio/Plataforma-de-Solu-o-de-Ciberseguran-a-SIEM-baseada-em-Open-Source/assets/55658962/3a385689-1835-443a-bba7-ff041d9ed4a2)
+![Diagrama de rede drawio](https://github.com/Culurio/Plataforma-de-Solu-o-de-Ciberseguran-a-SIEM-baseada-em-Open-Source/assets/55658962/bc65fc7f-e5a2-4699-9b68-f1ec6e938193)
 
