@@ -1,0 +1,10 @@
+Vivemos numa era onde as empresas sofrem ciberataques constantemente, e para
+tal precisam de ferramentas de prevenção contra estes ataques.
+Este TFC tem como objetivo desenvolver uma plataforma SIEM (Security Information 
+and Event Management) com base em soluções open-source, de modo a permitir a
+pequenas e médias empresas poderem adquirir este tipo de serviços, sem terem
+de gastar grandes quantidades monetárias, que geralmente estas ferramentas
+requerem.
+Para tal, foram utilizadas as ferramentas open-source Wazuh e a firewall pfSense.
+Posteriormente foi desenvolvido um ambiente virtual de simulação de uma empresa, 
+à pequena escala.
