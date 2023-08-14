@@ -1,4 +1,4 @@
-# Plataforma-de-Solu-o-de-Ciberseguran-a-SIEM-baseada-em-Open-Source
+# Plataforma-de-Solução-de-Cibersegurança-SIEM-baseada-em-Open-Source
 Trabalho realizado por Cláudio Costa 22104010 e Gonçalo Antunes 22106935
 A imagem foi feita por uma AI e o prompt foi: Security information and event management
 
